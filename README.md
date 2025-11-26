@@ -2,7 +2,9 @@
 
 A Sample login flow built with **Jetpack Compose**, **MVVM** with both unit and UI tests.
 
+---
 ## Project Structure
+```
 app/src/
 ├── main/                 
 │   └── java/com/example/sample/
@@ -19,8 +21,9 @@ app/src/
 ├── screens/       → BaseScreen + LoginScreen (POM)
 ├── tests/         → BaseTest + LoginFlowTest
 └── utils/         → NetworkMonitorProvider, etc.
-
-Running Tests
+```
+---
+# How To Run Tests
 
 # Unit tests
 ./gradlew test
