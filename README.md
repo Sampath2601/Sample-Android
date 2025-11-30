@@ -24,7 +24,7 @@ app/src/
 ```
 ---
 ## ScreenRecording
-This app uses Credentials Username: test, Password: password
+This app uses Credentials **Username**: test, **Password**: password
 
 
 
