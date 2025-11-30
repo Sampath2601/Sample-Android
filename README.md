@@ -23,6 +23,15 @@ app/src/
 └── utils/         → NetworkMonitorProvider, etc.
 ```
 ---
+## ScreenRecording
+This app uses Credentials Username: test, Password: password
+
+
+
+https://github.com/user-attachments/assets/ebc88bf9-ecf9-460d-9e2a-db38a57bbede
+
+
+---
 # How To Run Tests
 
 # Unit tests
